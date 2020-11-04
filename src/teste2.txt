@@ -1,4 +1,12 @@
-Quero fazer a quebra de linha de uma String, que tem como conteúdo uma grande linha, Essa quebra de linha não pode quebrar palavras e tem um limite x de letras por linha.
-Meu código é o seguinte, ele pega um arquivo que possui duas linhas, uma com a quantidade de letras por linha, armazenado em M e a segunda linha é o texto escrito em uma só linha
-Com isso no momento quero descobrir como quebrar essa linha colocando a regra de limite de letras por linha.
-Se alguém puder me ajudar, ficarei grato.
+Sou bastante organizado e gosto muito do
+ que faço. Tenho facilidade em ser autodidata e
+pesquisar por aquilo que quero aprender.
+ Minha ambição é ser um profissional da área de
+Segurança da Informação. Pretendo fazer uma pós
+graduação na área, logo que possível.
+ No momento, quero a oportunidade de aprender
+como as coisas funcionam, quero ter desafios reais
+e lidar com equipes em ambientes complexos. Sei
+que tenho muito a aprender e também muito a
+contribuir. Espero crescer juntamente com a equipe
+e a empresa na qual eu venha a atuar. 
